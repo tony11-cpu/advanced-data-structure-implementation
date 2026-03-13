@@ -1,4 +1,4 @@
-	## Advanced data structures implementation in C#
+## Advanced data structures implementation in C#
 
 A personal C# library of advanced data structures,
 built from scratch as each one was learned. 
