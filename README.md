@@ -144,22 +144,4 @@ priorityQueue.Peek();       // Returns 50 (if 100 was removed)
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] B-Tree / B+Tree for database-style indexing
-- [ ] Trie (prefix tree) for autocomplete scenarios
-- [ ] Segment Tree for range queries
-- [ ] Union-Find / Disjoint Set with path compression
-- [ ] A* pathfinding algorithm
-- [ ] More sorting algorithms (QuickSort, MergeSort, HeapSort)
-- [ ] Unit tests with xUnit/NUnit
-
----
-
-## 📄 License
-
-MIT License — Feel free to use, modify, and distribute.
-
----
-
 > *Built with care, precision, and a genuine love for algorithms.* 🧠💚
